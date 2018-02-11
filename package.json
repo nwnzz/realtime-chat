@@ -1,0 +1,31 @@
+{
+  "name": "realtime-chat-team",
+  "version": "1.0.0",
+  "description": "Realtime Team Chat System ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwnzz/realtime-chat.git"
+  },
+  "keywords": [
+    "Realtime",
+    "Chat",
+    "System",
+    "in",
+    "Angular",
+    "5",
+    "Typescript",
+    "Socket.io",
+    "Matarial",
+    "2.0"
+  ],
+  "author": "Nitesh Ranjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nwnzz/realtime-chat/issues"
+  },
+  "homepage": "https://github.com/nwnzz/realtime-chat#readme"
+}
